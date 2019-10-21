@@ -1,0 +1,14 @@
+h1{
+    color: rgb(6, 29, 163);
+  
+    
+   
+
+}
+body{
+    background-image: url(download.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-attachment: fixed;
+    background-size: cover;
+}
